@@ -1,0 +1,20 @@
+<script language="javascript">
+function changecolor(colorform)
+{
+	var nRed = colorform.red.value;
+	var nGreen = colorform.green.value;
+	var nBlue = colorform.blue.value;
+	document.getElementById("show").innerHTML = "<div style='width: 100px; height: 100px;background: rgb("+nRed+","+nGreen+","+nBlue+");'>&nbsp;</div>";
+}
+</script>
+<div>
+<form name="color">
+	<input name="red" type="text" value=0 size=4 onblur="changecolor(color)">
+	<input name="green" type="text" value=0 size=4 onblur="changecolor(color)">
+	<input name="blue" type="text" value=0 size=4 onblur="changecolor(color)">
+	<input type="button" value="Show" onclick="changecolor(color)">
+</form>
+</div>
+
+<div id="show" style="width: 100px; height: 100px;border: solid 1px #000">
+</div>
