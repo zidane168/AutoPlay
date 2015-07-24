@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DllMain", "DllMain\DllMain.vcproj", "{E25A316F-C69E-4437-9500-D9DE1D66EFFB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SendApp", "SendApp\SendApp.vcproj", "{1CA59AD3-CDA7-452E-B9CB-2297755A8740}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E25A316F-C69E-4437-9500-D9DE1D66EFFB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E25A316F-C69E-4437-9500-D9DE1D66EFFB}.Debug|Win32.Build.0 = Debug|Win32
+		{E25A316F-C69E-4437-9500-D9DE1D66EFFB}.Release|Win32.ActiveCfg = Release|Win32
+		{E25A316F-C69E-4437-9500-D9DE1D66EFFB}.Release|Win32.Build.0 = Release|Win32
+		{1CA59AD3-CDA7-452E-B9CB-2297755A8740}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1CA59AD3-CDA7-452E-B9CB-2297755A8740}.Debug|Win32.Build.0 = Debug|Win32
+		{1CA59AD3-CDA7-452E-B9CB-2297755A8740}.Release|Win32.ActiveCfg = Release|Win32
+		{1CA59AD3-CDA7-452E-B9CB-2297755A8740}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
