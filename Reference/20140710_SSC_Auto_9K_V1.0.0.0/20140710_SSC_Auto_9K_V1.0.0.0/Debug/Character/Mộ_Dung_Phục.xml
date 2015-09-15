@@ -1,0 +1,21 @@
+<Info Name="Mộ_Dung_Phục">
+<Range>500</Range>
+<Priority>1</Priority>
+<Element>1|2|3|4|5|</Element>
+<Faction>1|2|3|4|5|6|7|8|9|10|</Faction>
+<PkFollowLead>0</PkFollowLead>
+<AutoRide>1</AutoRide>
+<PeopleFirst>1</PeopleFirst>
+<BlackList>0</BlackList>
+<FightToDie>0</FightToDie>
+<NotFollow>0</NotFollow>
+<DistanceFollow>200</DistanceFollow>
+<GoTo>1</GoTo>
+<Revival>1</Revival>
+<AutoFight>0</AutoFight>
+<KeyFight>0</KeyFight>
+<HpRestore value="50" key="1"/>
+<Skills>
+<Skill Id="4" Range="50" Delay="0"/>
+</Skills>
+</Info>

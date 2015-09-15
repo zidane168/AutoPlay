@@ -1,0 +1,34 @@
+<Info Name="KêuMồiĐi">
+<Range>500</Range>
+<Priority>3</Priority>
+<Element>1|2|3|4|5|</Element>
+<Faction>1|2|3|4|5|6|7|8|9|10|</Faction>
+<PkFollowLead>0</PkFollowLead>
+<FollowLead>0</FollowLead>
+<AutoRide>1</AutoRide>
+<PeopleFirst>0</PeopleFirst>
+<BlackList>0</BlackList>
+<FightToDie>0</FightToDie>
+<NotFollow>0</NotFollow>
+<DistanceFollow>200</DistanceFollow>
+<GoTo>1</GoTo>
+<Revival>1</Revival>
+<AutoFight>1</AutoFight>
+<KeyFight>0</KeyFight>
+<HpRestore value="50" key="0"/>
+<AutoEat>0</AutoEat>
+<MpRestore>0</MpRestore>
+<AutoGoBack>1</AutoGoBack>
+<AutoQuest>1</AutoQuest>
+<Award>1|2|3|4|5|</Award>
+<Maps>
+<Map Id="150" Range="1000">
+<Point x="51407" y="101570"/>
+<Point x="53112" y="102428"/>
+<Point x="51553" y="102984"/>
+</Map>
+</Maps>
+<Skills>
+<Skill Id="402" Range="280" Delay="0"/>
+</Skills>
+</Info>

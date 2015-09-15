@@ -1,0 +1,41 @@
+<Info Name="HồLyChínĐuôi">
+<Range>1000</Range>
+<Priority>0</Priority>
+<Element>1|2|3|4|5|</Element>
+<Faction>1|2|3|4|5|6|7|8|9|10|</Faction>
+<PkFollowLead>0</PkFollowLead>
+<FollowLead>0</FollowLead>
+<AutoRide>1</AutoRide>
+<PeopleFirst>0</PeopleFirst>
+<BlackList>0</BlackList>
+<FightToDie>0</FightToDie>
+<NotFollow>0</NotFollow>
+<DistanceFollow>200</DistanceFollow>
+<GoTo>0</GoTo>
+<Revival>1</Revival>
+<AutoFight>0</AutoFight>
+<KeyFight>0</KeyFight>
+<HpRestore value="50" key="1"/>
+<AutoEat>1</AutoEat>
+<MpRestore>4</MpRestore>
+<AutoGoBack>1</AutoGoBack>
+<PickBag>0</PickBag>
+<AutoQuest>1</AutoQuest>
+<Award>2|1|3|4|5|6|</Award>
+<QuickAward>1</QuickAward>
+<QuestInCave>1</QuestInCave>
+<Skills>
+<Skill Id="803" Range="600" Delay="0"/>
+<Skill Id="847" Range="800" Delay="24"/>
+</Skills>
+<Buffs>
+<Skill Id="823" Range="720" Delay="45"/>
+<Skill Id="814" Range="0" Delay="10"/>
+<Skill Id="836" Range="0" Delay="30"/>
+<Skill Id="831" Range="0" Delay="10"/>
+</Buffs>
+<Escort>0</Escort>
+<AutoParty>0</AutoParty>
+<LeaderName></LeaderName>
+<CreateParty>0</CreateParty>
+</Info>

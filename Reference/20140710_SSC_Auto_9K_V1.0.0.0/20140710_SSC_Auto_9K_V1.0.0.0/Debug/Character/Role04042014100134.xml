@@ -1,0 +1,50 @@
+<Info Name="xxxHoangDung">
+<Range>1000</Range>
+<Priority>0</Priority>
+<Element>1|2|3|4|5|</Element>
+<Faction>1|2|3|4|5|6|7|8|9|10|</Faction>
+<PkFollowLead>1</PkFollowLead>
+<FollowLead>1</FollowLead>
+<AutoRide>1</AutoRide>
+<PeopleFirst>0</PeopleFirst>
+<BlackList>0</BlackList>
+<FightToDie>0</FightToDie>
+<NotFollow>0</NotFollow>
+<DistanceFollow>200</DistanceFollow>
+<GoTo>1</GoTo>
+<Revival>1</Revival>
+<AutoFight>0</AutoFight>
+<KeyFight>0</KeyFight>
+<HpRestore value="50" key="1"/>
+<AutoEat>1</AutoEat>
+<MpRestore>3</MpRestore>
+<AutoGoBack>1</AutoGoBack>
+<AutoQuest>1</AutoQuest>
+<Award>2|1|3|5|4|6|</Award>
+<Skills>
+<Skill Id="702" Range="760" Delay="0"/>
+</Skills>
+<Buffs>
+<Skill Id="731" Range="0" Delay="18"/>
+<Skill Id="712" Range="0" Delay="15"/>
+<Skill Id="731" Range="0" Delay="18"/>
+</Buffs>
+<Maps>
+<Map Id="48" Name="Cái Bang" Range="1000">
+<Point x="56411" y="110494"/>
+<Point x="54960" y="108496"/>
+</Map>
+</Maps>
+<PickBag>1</PickBag>
+<QuickAward>1</QuickAward>
+<QuestInCave>0</QuestInCave>
+<AutoParty>0</AutoParty>
+<LeaderName></LeaderName>
+<CreateParty>0</CreateParty>
+<Escort>0</Escort>
+<Party>
+<Member Role="xxxquachtinh"/>
+</Party>
+<SendTeam BC="0" TVP="1" VT="0" TN="0" TVPhai="0">1</SendTeam>
+<KindBiCanh>0</KindBiCanh>
+</Info>

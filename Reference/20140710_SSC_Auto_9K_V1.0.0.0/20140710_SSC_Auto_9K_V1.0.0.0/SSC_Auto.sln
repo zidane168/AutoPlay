@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SSC_GameEngine", "SSC_GameEngine\SSC_GameEngine.vcproj", "{C87D19ED-CAAA-4988-BEAA-BEFBED6C012F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SSC_CONTROLLER", "SSC_CONTROLLER\SSC_CONTROLLER.vcproj", "{FB55FA63-8EF7-4835-AD63-58173037E16C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SSC_AutoGame", "SSC_AutoGame\SSC_AutoGame.vcproj", "{41039BDA-6035-4DE5-88BA-ACCABE0F99CA}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FB55FA63-8EF7-4835-AD63-58173037E16C} = {FB55FA63-8EF7-4835-AD63-58173037E16C}
+		{D20B6E6E-C616-4391-94A2-CA7AC38817DF} = {D20B6E6E-C616-4391-94A2-CA7AC38817DF}
+		{C87D19ED-CAAA-4988-BEAA-BEFBED6C012F} = {C87D19ED-CAAA-4988-BEAA-BEFBED6C012F}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HookInj", "HookInj\HookInj.vcproj", "{D20B6E6E-C616-4391-94A2-CA7AC38817DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C87D19ED-CAAA-4988-BEAA-BEFBED6C012F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C87D19ED-CAAA-4988-BEAA-BEFBED6C012F}.Debug|Win32.Build.0 = Debug|Win32
+		{C87D19ED-CAAA-4988-BEAA-BEFBED6C012F}.Release|Win32.ActiveCfg = Release|Win32
+		{C87D19ED-CAAA-4988-BEAA-BEFBED6C012F}.Release|Win32.Build.0 = Release|Win32
+		{FB55FA63-8EF7-4835-AD63-58173037E16C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FB55FA63-8EF7-4835-AD63-58173037E16C}.Debug|Win32.Build.0 = Debug|Win32
+		{FB55FA63-8EF7-4835-AD63-58173037E16C}.Release|Win32.ActiveCfg = Release|Win32
+		{FB55FA63-8EF7-4835-AD63-58173037E16C}.Release|Win32.Build.0 = Release|Win32
+		{41039BDA-6035-4DE5-88BA-ACCABE0F99CA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{41039BDA-6035-4DE5-88BA-ACCABE0F99CA}.Debug|Win32.Build.0 = Debug|Win32
+		{41039BDA-6035-4DE5-88BA-ACCABE0F99CA}.Release|Win32.ActiveCfg = Release|Win32
+		{41039BDA-6035-4DE5-88BA-ACCABE0F99CA}.Release|Win32.Build.0 = Release|Win32
+		{D20B6E6E-C616-4391-94A2-CA7AC38817DF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D20B6E6E-C616-4391-94A2-CA7AC38817DF}.Debug|Win32.Build.0 = Debug|Win32
+		{D20B6E6E-C616-4391-94A2-CA7AC38817DF}.Release|Win32.ActiveCfg = Release|Win32
+		{D20B6E6E-C616-4391-94A2-CA7AC38817DF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

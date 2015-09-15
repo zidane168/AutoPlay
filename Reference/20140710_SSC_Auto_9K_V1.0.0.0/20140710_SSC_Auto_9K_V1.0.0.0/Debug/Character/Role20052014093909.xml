@@ -1,0 +1,34 @@
+<Info Name="&gt;:DungGietToi:&lt;">
+<Range>1000</Range>
+<Priority>0</Priority>
+<Element>1|2|3|4|5|</Element>
+<Faction>1|2|3|4|5|6|7|8|9|10|</Faction>
+<PkFollowLead>0</PkFollowLead>
+<FollowLead>1</FollowLead>
+<AutoRide>1</AutoRide>
+<PeopleFirst>0</PeopleFirst>
+<BlackList>0</BlackList>
+<FightToDie>0</FightToDie>
+<NotFollow>0</NotFollow>
+<DistanceFollow>200</DistanceFollow>
+<GoTo>0</GoTo>
+<Revival>1</Revival>
+<AutoFight>0</AutoFight>
+<KeyFight>0</KeyFight>
+<HpRestore value="50" key="1"/>
+<AutoEat>1</AutoEat>
+<MpRestore>1</MpRestore>
+<AutoGoBack>1</AutoGoBack>
+<PickBag>0</PickBag>
+<AutoQuest>1</AutoQuest>
+<Award>1|2|3|4|5|6|</Award>
+<QuickAward>1</QuickAward>
+<QuestInCave>0</QuestInCave>
+<AutoParty>0</AutoParty>
+<LeaderName></LeaderName>
+<CreateParty>0</CreateParty>
+<Skills>
+<Skill Id="402" Range="280" Delay="0"/>
+</Skills>
+<Buffs/>
+</Info>

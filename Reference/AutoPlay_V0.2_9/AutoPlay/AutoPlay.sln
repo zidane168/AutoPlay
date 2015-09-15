@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AutoPlay", "AutoPlay.vcproj", "{A8A6E24C-5381-4BEE-B861-AD03C5F0AD32}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Controller", "..\Controller\Controller.vcproj", "{BB690DAF-3A1A-45D1-9059-AF5F002FF1A3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AutoSetup", "..\AutoSetup\AutoSetup.vdproj", "{1EC51F50-C21D-44EF-B0B5-FC222BED09CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8A6E24C-5381-4BEE-B861-AD03C5F0AD32}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A8A6E24C-5381-4BEE-B861-AD03C5F0AD32}.Debug|Win32.Build.0 = Debug|Win32
+		{A8A6E24C-5381-4BEE-B861-AD03C5F0AD32}.Release|Win32.ActiveCfg = Release|Win32
+		{A8A6E24C-5381-4BEE-B861-AD03C5F0AD32}.Release|Win32.Build.0 = Release|Win32
+		{BB690DAF-3A1A-45D1-9059-AF5F002FF1A3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BB690DAF-3A1A-45D1-9059-AF5F002FF1A3}.Debug|Win32.Build.0 = Debug|Win32
+		{BB690DAF-3A1A-45D1-9059-AF5F002FF1A3}.Release|Win32.ActiveCfg = Release|Win32
+		{BB690DAF-3A1A-45D1-9059-AF5F002FF1A3}.Release|Win32.Build.0 = Release|Win32
+		{1EC51F50-C21D-44EF-B0B5-FC222BED09CE}.Debug|Win32.ActiveCfg = Debug
+		{1EC51F50-C21D-44EF-B0B5-FC222BED09CE}.Debug|Win32.Build.0 = Debug
+		{1EC51F50-C21D-44EF-B0B5-FC222BED09CE}.Release|Win32.ActiveCfg = Release
+		{1EC51F50-C21D-44EF-B0B5-FC222BED09CE}.Release|Win32.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

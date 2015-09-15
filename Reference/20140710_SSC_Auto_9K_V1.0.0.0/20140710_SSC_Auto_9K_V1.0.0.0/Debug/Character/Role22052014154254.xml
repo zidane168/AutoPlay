@@ -1,0 +1,47 @@
+<Info Name=".:DuongDung:.">
+<Range>500</Range>
+<Priority>0</Priority>
+<Element>1|2|3|4|5|</Element>
+<Faction>1|2|3|4|5|6|7|8|9|10|</Faction>
+<PkFollowLead>0</PkFollowLead>
+<FollowLead>0</FollowLead>
+<AutoRide>1</AutoRide>
+<PeopleFirst>0</PeopleFirst>
+<BlackList>0</BlackList>
+<FightToDie>0</FightToDie>
+<NotFollow>0</NotFollow>
+<DistanceFollow>200</DistanceFollow>
+<GoTo>0</GoTo>
+<Revival>1</Revival>
+<AutoFight>0</AutoFight>
+<KeyFight>0</KeyFight>
+<HpRestore value="80" key="1"/>
+<AutoEat>1</AutoEat>
+<MpRestore>4</MpRestore>
+<AutoGoBack>1</AutoGoBack>
+<PickBag>1</PickBag>
+<AutoQuest>0</AutoQuest>
+<Award>1|2|3|4|5|6|</Award>
+<QuickAward>0</QuickAward>
+<QuestInCave>0</QuestInCave>
+<AutoParty>1</AutoParty>
+<LeaderName></LeaderName>
+<CreateParty>0</CreateParty>
+<Skills>
+<Skill Id="1003" Range="680" Delay="0"/>
+</Skills>
+<Escort>0</Escort>
+<Buffs>
+<Skill Id="1021" Range="0" Delay="15"/>
+</Buffs>
+<Maps>
+<Map Id="33" Name="Miêu Lĩnh" Range="1000">
+<Point x="53787" y="100152"/>
+</Map>
+<Map Id="145" Name="Dạ Lang Phế Khư" Range="1000">
+<Point x="53784" y="104224"/>
+</Map>
+</Maps>
+<SendTeam BC="0" TVP="1" VT="0" TN="0" TVPhai="0">1</SendTeam>
+<KindBiCanh>3</KindBiCanh>
+</Info>

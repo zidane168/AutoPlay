@@ -1,0 +1,24 @@
+<Info Name="xxxQuachTinh">
+<Range>500</Range>
+<Priority>0</Priority>
+<Element>1|2|3|4|5|</Element>
+<Faction>1|2|3|4|5|6|7|8|9|10|</Faction>
+<PkFollowLead>0</PkFollowLead>
+<FollowLead>1</FollowLead>
+<AutoRide>1</AutoRide>
+<PeopleFirst>0</PeopleFirst>
+<BlackList>0</BlackList>
+<FightToDie>0</FightToDie>
+<NotFollow>0</NotFollow>
+<DistanceFollow>200</DistanceFollow>
+<GoTo>1</GoTo>
+<Revival>1</Revival>
+<AutoFight>1</AutoFight>
+<KeyFight>0</KeyFight>
+<HpRestore value="50" key="0"/>
+<AutoEat>0</AutoEat>
+<MpRestore>0</MpRestore>
+<AutoGoBack>1</AutoGoBack>
+<AutoQuest>0</AutoQuest>
+<Award>1|2|3|4|5|</Award>
+</Info>

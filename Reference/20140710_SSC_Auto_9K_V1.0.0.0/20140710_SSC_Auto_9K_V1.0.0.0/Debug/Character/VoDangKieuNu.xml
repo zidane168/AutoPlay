@@ -1,0 +1,36 @@
+<Info Name="VoDangKieuNu">
+<Range>200</Range>
+<Priority>0</Priority>
+<Element>1|2|3|4|5|</Element>
+<Faction>1|2|3|4|5|6|7|8|9|10|</Faction>
+<PkFollowLead>0</PkFollowLead>
+<AutoRide>1</AutoRide>
+<PeopleFirst>0</PeopleFirst>
+<BlackList>0</BlackList>
+<FightToDie>0</FightToDie>
+<NotFollow>0</NotFollow>
+<DistanceFollow>200</DistanceFollow>
+<GoTo>1</GoTo>
+<Revival>1</Revival>
+<AutoFight>1</AutoFight>
+<KeyFight>0</KeyFight>
+<HpRestore value="50" key="1"/>
+<Maps>
+<Map Id="90" Range="200">
+<Point x="53872" y="112720"/>
+<Point x="53593" y="111658"/>
+</Map>
+</Maps>
+<PkOnMove>1</PkOnMove>
+<chkAutoEat>1</chkAutoEat>
+<MpRestore>0</MpRestore>
+<Skills>
+<Skill Id="2" Range="50" Delay="0"/>
+</Skills>
+<Buffs/>
+<AutoGoBack>1</AutoGoBack>
+<FollowLead>0</FollowLead>
+<AutoEat>0</AutoEat>
+<AutoQuest>1</AutoQuest>
+<Award>1|2|3|4|5|</Award>
+</Info>

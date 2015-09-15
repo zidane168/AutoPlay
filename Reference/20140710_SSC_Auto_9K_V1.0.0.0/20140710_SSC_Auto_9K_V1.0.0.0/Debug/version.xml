@@ -1,0 +1,10 @@
+<Update>
+	<version>1.0.6.3</version>
+	<files size="1630">
+		<file name="SSC_AutoGame.exe" size="278000" />
+		<file name="HookInj.dll" size="65536" />
+		<file name="SSC_GameEngine.dll" size="717000" />
+		<file name="SSC_CONTROLLER.dll" size="562000" />
+		<file name="GUI.cfg" size="10341" />
+	</files>
+</Update>

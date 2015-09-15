@@ -1,0 +1,40 @@
+<Info Name="talagianghohem_suhuynh">
+<Range>1000</Range>
+<Priority>0</Priority>
+<Element>1|2|3|4|5|</Element>
+<Faction>1|2|3|4|5|6|7|8|9|10|</Faction>
+<PkFollowLead>0</PkFollowLead>
+<FollowLead>1</FollowLead>
+<AutoRide>1</AutoRide>
+<PeopleFirst>0</PeopleFirst>
+<BlackList>0</BlackList>
+<FightToDie>0</FightToDie>
+<NotFollow>0</NotFollow>
+<DistanceFollow>200</DistanceFollow>
+<GoTo>0</GoTo>
+<Revival>1</Revival>
+<AutoFight>0</AutoFight>
+<KeyFight>0</KeyFight>
+<HpRestore value="50" key="0"/>
+<AutoEat>1</AutoEat>
+<MpRestore>3</MpRestore>
+<AutoGoBack>1</AutoGoBack>
+<PickBag>0</PickBag>
+<AutoQuest>0</AutoQuest>
+<Award>2|1|3|4|5|6|</Award>
+<QuickAward>1</QuickAward>
+<QuestInCave>0</QuestInCave>
+<Escort>0</Escort>
+<AutoParty>0</AutoParty>
+<LeaderName></LeaderName>
+<CreateParty>0</CreateParty>
+<Skills>
+<Skill Id="649" Range="640" Delay="6"/>
+<Skill Id="603" Range="640" Delay="0"/>
+<Skill Id="641" Range="800" Delay="10"/>
+<Skill Id="652" Range="480" Delay="30"/>
+</Skills>
+<Buffs>
+<Skill Id="608" Range="0" Delay="15"/>
+</Buffs>
+</Info>
